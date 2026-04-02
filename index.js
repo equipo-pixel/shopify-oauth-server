@@ -6,7 +6,7 @@ const app = express();
 // ─── TUS CREDENCIALES ───────────────────────────────────────────
 const CLIENT_ID = '4bc5539ece2586740fbb8c104aaa36f9';
 const CLIENT_SECRET = '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';
-const MAKE_WEBHOOK_URL = 'PEGA_AQUI_TU_WEBHOOK_DE_MAKE'; // lo añadiremos después
+const MAKE_WEBHOOK_URL = 'https://hook.eu2.make.com/mezfpud5idmplnu7vrjsw46kruojo3rq';
 const HOST = process.env.HOST || 'https://shopify-oauth-server-production-e760.up.railway.app';
 // ────────────────────────────────────────────────────────────────
 
